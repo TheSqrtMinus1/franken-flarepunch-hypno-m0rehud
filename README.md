@@ -20,6 +20,7 @@ plus
 
 other things that i cant remember right now.
 
+Also, it disables chat. you have to edit it to turn it back on.
 
 this hud probably has a lot of extra useless shit, im too lazy to remove it. Sorry.
 
