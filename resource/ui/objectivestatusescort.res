@@ -197,8 +197,8 @@
 		{	
 			"ControlName"	"CExLabel"
 			"fieldName"		"RecedeTime"
-			"font"			"M0refont10"
-			"font_minmode"	"M0refont10"
+			"font"			"M0refont8"
+			"font_minmode"	"M0refont8"
 			"xpos"			"245"
 			"xpos_minmode"	"245"
 			"ypos"			"0"
@@ -219,7 +219,7 @@
 			
 			"if_multiple_trains"
 			{
-				"font"			"M0refont10"
+				"font"			"M0refont8"
 				"xpos"			"21"
 				"wide"			"11"
 				"tall"			"10"
@@ -399,8 +399,8 @@
 		{	
 			"ControlName"	"CExLabel"
 			"fieldName"		"CapNumPlayers"
-			"font"			"M0refont10"
-			"font_minmode"	"M0refont10"
+			"font"			"M0refont8"
+			"font_minmode"	"M0refont8"
 			"xpos"			"232"
 			"xpos_minmode"	"232"
 			"ypos"			"0"
@@ -421,7 +421,7 @@
 			
 			"if_multiple_trains"
 			{
-				"font"			"M0refont10"
+				"font"			"M0refont8"
 				"xpos"			"4"
 				"wide"			"21"
 				"tall"			"8"
