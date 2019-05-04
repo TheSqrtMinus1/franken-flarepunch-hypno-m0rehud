@@ -29,9 +29,9 @@ Scheme
 		
 		"Health Numbers"									"255 255 255 255"
 
-		"Buffed Health"										"255 182 192 255"
-		"Buffed Health Target"								"255 182 192 255"
-		"Buffed Health Spec"								"255 182 192 255"
+		"Buffed Health"										"255 0 144 255"
+		"Buffed Health Target"								"255 0 144 255"
+		"Buffed Health Spec"								"255 0 144 255"
 		
 		"Low Health"										"255 0 0 255"
 		"Low Health Target"									"255 0 0 255"
