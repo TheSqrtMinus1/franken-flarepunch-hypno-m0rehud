@@ -137,7 +137,7 @@
 		"pinCorner"									"0"
 		"visible"									"1"
 		"enabled"									"1"
-		"fillcolor"									"Background"
+		"fillcolor"									"30 30 30 50"
 	}
 	
 	"HeaderLine"
@@ -159,7 +159,7 @@
 	"By"
 	{
 		"ControlName"								"Label"
-		"fieldName"									"By"
+		"fieldName"									"null"
 		"font"										"HypnoLabelSmall"
 		"fgcolor_override"   						"LightBG"
 		"xpos"										"r150"
@@ -170,17 +170,17 @@
 		"textinsetx"								"15"
 		"autoResize"								"0"
 		"pinCorner"									"0"
-		"visible"									"1"
-		"enabled"									"1"
+		"visible"									"0"
+		"enabled"									"0"
 		"wrap"										"0"
-		"labelText"									"By"
+		"labelText"									"null"
 		"textAlignment"								"west"	
 	}
 	
 	"Hypnotize"
 	{
 		"ControlName"								"Label"
-		"fieldName"									"Hypnotize"
+		"fieldName"									"im gay"
 		"font"										"HypnoLabel"
 		"fgcolor_override"   						"LightBG"
 		"xpos"										"r160"
@@ -194,7 +194,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"wrap"										"0"
-		"labelText"									"Hypnotize"
+		"labelText"									"im gay"
 		"textAlignment"								"west"	
 	}
 	
