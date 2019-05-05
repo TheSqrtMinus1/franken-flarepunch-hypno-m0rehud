@@ -18,6 +18,10 @@ the cap points of https://github.com/n0kk/ahud
 
 plus
 
+the winpanel.res from https://github.com/raysfire/rayshud/
+
+plus
+
 other things that i cant remember right now.
 
 Also, it disables chat. you have to edit it to turn it back on.
