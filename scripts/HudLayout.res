@@ -333,9 +333,9 @@
 		"tall"										"200"
 		"visible"									"1"
 		"enabled"									"1"
-		"separator_width"							"5"
-		"separator_height"							"5"
-		"height_offset"								"0"
+		"separator_width"							"-1"
+		"separator_height"							"0"
+		"height_offset"								"4"
 	}
 
 	WinPanel
@@ -344,11 +344,13 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"xpos"				"c-100"
-		"ypos"				"270"
+		"ypos"				"c-250"
+		"zpos"				"9999"
 		"wide"				"200"
 		"tall"				"300"
 	}
 	
+
 	ArenaWinPanel
 	{
 		"fieldName"									"ArenaWinPanel"
