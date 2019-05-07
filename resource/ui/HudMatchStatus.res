@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CTFTeamStatus"
 		"fieldName"		"TeamStatus"
-		"xpos"			"0"
+		"xpos"			"1"
 		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"f0"
@@ -265,7 +265,7 @@
 	}
 	"HudMatchStatus"
 	{
-		"fieldName"									"HudMatchStatus"
+		"fieldName"								"HudMatchStatus"
 		"avatar_width"								"63"
 		"spacer"									"5"
 		"name_width"								"57"
@@ -330,16 +330,16 @@
 	"MatchDoors"
 	{
 		"ControlName"								"CModelPanel"
-		"fieldName"									"MatchDoors"
-		"xpos"										"0"
-		"ypos"										"0"
+		"fieldName"								"MatchDoors"
+		"xpos"										"-100000"
+		"ypos"										"-100000"
 		"zpos"										"2"		
 		"wide"										"f0"
 		"tall"										"f0"
 		"autoResize"								"0"
-		"pinCorner"									"0"
+		"pinCorner"								"0"
 		"visible"									"0"
-		"enabled"									"1"
+		"enabled"									"0"
 		"fov"										"70"
 		"proportionaltoparent"						"1"
 		
@@ -383,15 +383,15 @@
 	
 	"RoundCounter"
 	{
-		"fieldName"									"RoundCounter"
-		"xpos"										"cs-0.5"
+		"fieldName"								"RoundCounter"
+		"xpos"										"cs-.5"
 		"ypos"										"-2"
-		"zpos"										"1"		
+		"zpos"										"-1000"		
 		"wide"										"300"
-		"tall"										"0"
+		"tall"										"11"
 		"visible"									"1"
 		"enabled"									"1"
-	}
+	} 
 	
 	"RankUpLabel"
 	{	
@@ -442,9 +442,9 @@
 	"ObjectiveStatusTimePanel"
 	{
 		"ControlName"								"EditablePanel"
-		"fieldName"									"ObjectiveStatusTimePanel"
+		"fieldName"								"ObjectiveStatusTimePanel"
 		"xpos"										"c-50"
-		"ypos"										"1"
+		"ypos"										"9"
 		"zpos"										"5"
 		"wide"										"100"
 		"tall"										"150"
@@ -461,7 +461,7 @@
 		"TimePanelValue"
 		{
 			"ControlName"							"CExLabel"
-			"fieldName"								"TimePanelValue"
+			"fieldName"							"TimePanelValue"
 			"font"									"M0refont16"
 			"fgcolor"								"255 255 255 255"
 			"xpos"									"26"
@@ -479,7 +479,7 @@
 	"BlueTeamPanel"
 	{
 		"ControlName"								"EditablePanel"
-		"fieldName"									"BlueTeamPanel"
+		"fieldName"								"BlueTeamPanel"
 		"xpos"										"-155"
 		"ypos"										"125"
 		"zpos"										"50"

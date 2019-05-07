@@ -333,9 +333,9 @@
 		"tall"										"200"
 		"visible"									"1"
 		"enabled"									"1"
-		"separator_width"							"-1"
+		"separator_width"							"-1.5"
 		"separator_height"							"0"
-		"height_offset"								"4"
+		"height_offset"							"5"
 	}
 
 	WinPanel
@@ -344,7 +344,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"xpos"				"c-100"
-		"ypos"				"c-250"
+		"ypos"				"c-240"
 		"zpos"				"9999"
 		"wide"				"200"
 		"tall"				"300"
