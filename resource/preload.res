@@ -586,7 +586,7 @@
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_cap_blu"
+		"image"			"../replay/thumbnails/icon_obj_cap_blu"
 	}
 	
 	"cpcapbluup"
@@ -596,7 +596,7 @@
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_cap_blu_up"
+		"image"			"../replay/thumbnails/icon_obj_cap_blu_up"
 	}
 	
 	"cpcapred"
@@ -606,7 +606,7 @@
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_cap_red"
+		"image"			"../replay/thumbnails/icon_obj_cap_red"
 	}
 	
 	"cpcapredup"
@@ -616,6 +616,6 @@
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_cap_red_up"
+		"image"			"../replay/thumbnails/icon_obj_cap_red_up"
 	}
 }

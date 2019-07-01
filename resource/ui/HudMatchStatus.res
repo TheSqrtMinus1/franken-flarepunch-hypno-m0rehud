@@ -386,7 +386,7 @@
 		"fieldName"								"RoundCounter"
 		"xpos"										"cs-.5"
 		"ypos"										"-2"
-		"zpos"										"-1000"		
+		"zpos"										"-10000"		
 		"wide"										"300"
 		"tall"										"11"
 		"visible"									"1"
