@@ -270,6 +270,7 @@
 		"spacer"									"5"
 		"name_width"								"57"
 		"horiz_inset"								"2"
+		"zpos" "-1000"
 	}	
 
 	"CountdownLabel"
