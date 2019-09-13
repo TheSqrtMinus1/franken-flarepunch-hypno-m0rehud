@@ -94,7 +94,7 @@
 		"wide"			     						"200"
 		"tall"		      							"200"
 		
-		"fgcolor"        							"000 255 191 255"
+		"fgcolor"        							"255 255 255 000"
 		"labelText"       							"o"
 		"font"            							"M0rexhairCircle"
 		
