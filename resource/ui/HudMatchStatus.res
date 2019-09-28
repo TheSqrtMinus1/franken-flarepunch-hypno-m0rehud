@@ -270,7 +270,7 @@
 		"spacer"									"5"
 		"name_width"								"57"
 		"horiz_inset"								"2"
-		"zpos" "-1000"
+		"zpos" 										"-1000"
 	}	
 
 	"CountdownLabel"
@@ -390,8 +390,8 @@
 		"zpos"										"-10000"		
 		"wide"										"300"
 		"tall"										"11"
-		"visible"									"1"
-		"enabled"									"1"
+		"visible"									"0"
+		"enabled"									"0"
 	} 
 	
 	"RankUpLabel"
@@ -443,7 +443,7 @@
 	"ObjectiveStatusTimePanel"
 	{
 		"ControlName"								"EditablePanel"
-		"fieldName"								"ObjectiveStatusTimePanel"
+		"fieldName"									"ObjectiveStatusTimePanel"
 		"xpos"										"c-50"
 		"ypos"										"9"
 		"zpos"										"5"
@@ -454,15 +454,15 @@
 		"delta_item_x"								"38"
 		"delta_item_start_y"						"27"
 		"delta_item_end_y"							"27"
-		"PositiveColor"								"0 255 0 255"
-		"NegativeColor"								"255 0 0 255"
+		"PositiveColor"								"0 188 212 255"
+		"NegativeColor"								"240 98 146 255"
 		"delta_lifetime"							"2"
 		"delta_item_font"							"default"
 		
 		"TimePanelValue"
 		{
 			"ControlName"							"CExLabel"
-			"fieldName"							"TimePanelValue"
+			"fieldName"								"TimePanelValue"
 			"font"									"M0refont16"
 			"fgcolor"								"255 255 255 255"
 			"xpos"									"26"
@@ -480,7 +480,7 @@
 	"BlueTeamPanel"
 	{
 		"ControlName"								"EditablePanel"
-		"fieldName"								"BlueTeamPanel"
+		"fieldName"									"BlueTeamPanel"
 		"xpos"										"-155"
 		"ypos"										"125"
 		"zpos"										"50"

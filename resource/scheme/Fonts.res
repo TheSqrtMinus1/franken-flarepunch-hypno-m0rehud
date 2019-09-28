@@ -1675,9 +1675,11 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
-				"tall"		"24"
-				"tall_hidef"	"32"
+				"name"										"Surface-Medium"
+				"tall"										"32"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"0"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1686,8 +1688,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
-				"tall"		"24"
+				"name"		"Surface-Medium"
+				"tall"		"32"
 				"tall_hidef"	"32"
 				"weight"	"500"
 				"italic"	"1"
@@ -1698,10 +1700,12 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
-				"tall"		"24"
-				"tall_hidef"	"32"
-				"weight"	"900"
+				"name"										"Surface-Medium"
+				"tall"										"32"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"0"
+				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
@@ -1709,8 +1713,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
-				"tall"		"24"
+				"name"		"Surface-Medium"
+				"tall"		"32"
 				"tall_hidef"	"32"
 				"weight"	"900"
 				"italic"	"1"
@@ -1721,9 +1725,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
-				"tall"		"16"
-				"tall_hidef"	"24"
+				"name"		"Surface-Medium"
+				"tall"		"24"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}

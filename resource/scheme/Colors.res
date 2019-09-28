@@ -53,9 +53,13 @@ Scheme
 		"Heal Numbers"										"0 255 0 255"
 		"Last Damage Done"									"239 118 39 255"
 		
-		"M0reBlue"											"0 120 201 255"
-		"M0reRed"											"235 58 58 255"
+//		"M0reBlue"											"0 120 201 255"
+//		"M0reRed"											"235 58 58 255"
 		
+		
+		"M0reBlue"			   							"0 188 212 255"			//Blue team
+		"M0reRed" 			   							"240 98 146 255"		//Red team  
+
 		///////////////////////////////////////////////////////////////////////////////
 		/////////////////////////////////BASE COLORS///////////////////////////////////
 		///////////////////////////////////////////////////////////////////////////////
@@ -85,10 +89,15 @@ Scheme
 		"PartyMember5"										"255 118 108 255"
 		"PartyMember6"										"255 133 255 255"
 		
-		"White"											"255 255 255 255"
-		"Red"												"189 59 61 255"
-		"RedSolid"											"189 59 61 255"
-		"Blue"												"90 122 143 255"
+		"White"												"255 255 255 255"
+//		"Red"												"189 59 61 255"
+		"Red"												"240 98 146 255"
+//		"RedSolid"											"189 59 61 255"
+		"RedSolid"											"240 98 146 255"
+
+
+//		"Blue"												"90 122 143 255"
+		"Blue"												"0 188 212 255"
 		"Yellow"											"255 255 255 255"
 		"TransparentYellow"									"255 255 255 255"
 		"BrightYellow"										"255 255 0 255"
@@ -96,11 +105,17 @@ Scheme
 		
 		"FooterBGBlack"										"0 0 0 255"
 		
-		"HUDBlueTeam"										"90 122 143 255"
-		"HUDRedTeam"										"189 59 61 255"
+//		"HUDBlueTeam"										"90 122 143 255"
+//		"HUDRedTeam"										"189 59 61 255"
+		"HUDBlueTeam"			   							"0 188 212 255"			//Blue team
+		"HUDRedTeam" 			   							"240 98 146 255"		//Red team  
+
 		"HUDSpectator"										"255 255 255 127"
-		"HUDBlueTeamSolid"									"90 122 143 255"
-		"HUDRedTeamSolid"									"189 59 61 255"
+		"HUDBlueTeamSolid"			   						"0 188 212 255"			//Blue team
+		"HUDRedTeamSolid" 			   						"240 98 146 255"		//Red team  
+
+//		"HUDBlueTeamSolid"									"90 122 143 255"
+//		"HUDRedTeamSolid"									"189 59 61 255"
 		"HUDDeathWarning"									"255 0 0 255"
 		"HudWhite"											"255 255 255 255"
 		"HudOffWhite"										"255 255 255 255"
@@ -446,8 +461,11 @@ Scheme
 
 		"ViewportBG"										"Blank"
 		"TeamSpec"											"204 204 204 255"
-		"TeamRed"											"255 64 64 255"
-		"TeamBlue"											"153 204 255 255"
+//		"TeamRed"											"255 64 64 255"
+//		"TeamBlue"											"153 204 255 255"
+		"TeamRed" 			   								"240 98 146 255"		//Red team  
+		"TeamBlue"			   								"0 188 212 255"			//Blue team
+
 
 		"MapDescriptionText"								"Gray"
 		"HudIcon_Green"										"0 160 0 255"

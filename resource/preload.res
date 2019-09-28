@@ -586,7 +586,7 @@
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../replay/thumbnails/icon_obj_cap_blu"
+		"image"			"../sprites/obj_icons/icon_obj_cap_blu"
 	}
 	
 	"cpcapbluup"
@@ -596,9 +596,8 @@
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../replay/thumbnails/icon_obj_cap_blu_up"
+		"image"			"../sprites/obj_icons/icon_obj_cap_blu_up"
 	}
-	
 	"cpcapred"
 	{
 		"ControlName"	"ImagePanel"
@@ -606,7 +605,7 @@
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../replay/thumbnails/icon_obj_cap_red"
+		"image"			"../sprites/obj_icons/icon_obj_cap_red"
 	}
 	
 	"cpcapredup"
@@ -616,6 +615,26 @@
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../replay/thumbnails/icon_obj_cap_red_up"
+		"image"			"../sprites/obj_icons/icon_obj_cap_red_up"
+	}
+	
+	"HudTournamentREDBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"HudTournamentREDBG"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../HUD/tournament_panel_red"
+	}
+		
+	"HudTournamentBLUEBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"HudTournamentBLUEBG"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../HUD/tournament_panel_blu"
 	}
 }

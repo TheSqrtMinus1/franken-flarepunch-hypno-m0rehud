@@ -18,7 +18,24 @@
 //		"image"			"replay/thumbnails/REFRACTnormal_transparent"
 //		"scaleImage"	"1"
 //	}
-
+	HudCloseCaption
+	{
+		"fieldName" "HudCloseCaption"
+		"visible"	"1"
+		"enabled"	"1"
+		"xpos"		"c+100"
+		"ypos"		"r150"
+		"xpos_minmode"		"c+80"
+		"ypos_minmode"		"c+130"
+		"wide"		"180"
+		"tall"		"60"
+		"BgAlpha"			"0"
+		"GrowTime"			"0.05"
+		"ItemHiddenTime"	"0.05"  // Nearly same as grow time so that the item doesn't start to show until growth is finished
+		"ItemFadeInTime"	"0.05"	// Once ItemHiddenTime is finished, takes this much longer to fade in
+		"ItemFadeOutTime"	"0.3"
+		"topoffset"			"0"
+	}
 	HudWeaponAmmo
 	{
 		"fieldName" 								"HudWeaponAmmo"
